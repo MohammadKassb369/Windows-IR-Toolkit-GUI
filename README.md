@@ -27,7 +27,7 @@ Collect evidence for later detailed analysis
 
 
 # Typical Usage Flow
-Run python Ransomware_ir_toolkit-GUI.py
+Run python Windows IR Toolkit GUI.py
 
 Start from top → click buttons one by one OR click Run All Modules.
 If needed, click Export Results to save findings as .txt or .csv.
